@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>I am the Ugrad philosopher</h1>
+    <p1>Site is being built</p>
+  </body>
+</html>
