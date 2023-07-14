@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: base
-Title: The undergraduate philosopher
+Title: The Undergraduate Philosopher
 ---
 
 # Quote of the month
